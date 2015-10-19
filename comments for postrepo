@@ -28,7 +28,7 @@
     <h1>GitHub Repository Creation Sample</h1>
 </div>
 
-
+//side
 <div id="side">
   <form id="githubForm" onsubmit="return false;">
     <input type="file" name="folder" id="folder" webkitdirectory directory required />
