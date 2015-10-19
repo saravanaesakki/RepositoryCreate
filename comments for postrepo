@@ -95,6 +95,7 @@ $('#submit').click(function(){
 	}
 });
 
+// postrepo
 function postrepo(name,description){
 
 	$("#results").text("Creating GitHub Repository.");
